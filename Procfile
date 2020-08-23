@@ -1,1 +1,1 @@
-worker:python alloces-app-laanch.py
+worker: python alloces-app-laanch.py
